@@ -1,5 +1,8 @@
 # Quantum Lorem Ipsum
 
+### Word length distribution vs. Lorem Ipsum
+![Word Length Distribution](https://raw.githubusercontent.com/neilpanchal/quantum-lorem-ipsum/master/distribution.png)
+### Quantum Lorem Ipsum Text
 The fundamental concepts of classical physics, space, time, mass, and derived concepts, velocity, momentum, force, angular momentum, energy ... all rest on the principle that material points have trajectories. They are defined as lines in space-time. Even the dynamics of continuous, solid or fluid media describes the trajectories of the material points which constitute the bodies in motion. But the indeterminacy relation of Heisenberg prevents quantum particles from having such classical trajectories, since their position and velocity can not be exactly defined at the same time. How then can it explain all the appearances which legitimize the fundamental concepts of classical physics?
 
 Systems, in one sense, are devices that take input and produce an output. A system can be thought to operate on the input to produce the output. The output is related to the input by a certain relationship known as the system response. The system response usually can be modeled with a mathematical relationship between the system input and the system output.
